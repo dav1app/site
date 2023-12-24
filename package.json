@@ -1,0 +1,11 @@
+{
+  "name": "dav1app-site",
+  "version": "1.0.0",
+  "description": "Não sou o cara que escreve ebooks. Na real, quero que aqueles tios que vendem cursos na internet tomem nos seus devidos ânus. A razão é simples: minha relação com a tecnologia é meio problemática, e eu quase nunca consigo colocar aquela cara sorridente com clareamento dental para falar pra você que tudo vai dar certo e bla bla bla. Eu sofro de dor crônica, então vivo puto ou cansado quando não estou dopado de medicação (no momento, estou na segunda opção). Eu pareço um zumbi no Instagram.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
